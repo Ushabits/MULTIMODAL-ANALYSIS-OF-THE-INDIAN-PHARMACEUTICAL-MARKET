@@ -11,7 +11,14 @@ Classifies medicines into therapeutic categories using raw text fields.
 Predicts whether a drug is likely to be discontinued using multimodal inputs.
 
 3. Price Prediction & Pricing-Tier Classification
-A two-tower multi-task model that predicts both exact drug prices and their pricing tier.  
+A two-tower multi-task model that predicts both exact drug prices and their pricing tier.
+
+📊 **Dataset**
+
+The full dataset is too large to upload to GitHub.
+You can access it here:
+
+👉 Kaggle Dataset Link: https://www.kaggle.com/datasets/rishgeeky/indian-pharmaceutical-products
 
 🛠️ **Technologies Used**
 - Python
