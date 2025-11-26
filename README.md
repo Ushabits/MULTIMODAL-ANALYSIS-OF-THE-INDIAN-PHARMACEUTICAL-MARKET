@@ -32,10 +32,6 @@ You can access it here:
 Clone the repository:
 git clone https://github.com/<your-username>/<repo-name>.git
 
-
-Install dependencies:
-pip install -r requirements.txt
-
 📌 **Notes**
 The original dataset cannot be uploaded due to size/sensitivity restrictions.
 All code is organised to run with any dataset matching the same schema.
