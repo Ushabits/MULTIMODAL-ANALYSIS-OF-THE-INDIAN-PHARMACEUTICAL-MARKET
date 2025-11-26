@@ -42,7 +42,7 @@ All code is organised to run with any dataset matching the same schema.
 The project report includes analysis, results, and insights generated from these models.
 
 👥 **Contributors**
-Parvathi Nair
-Usha Ramani
-Manogna Bedadakota
+Parvathi Nair,
+Usha Ramani,
+Manogna Bedadakota,
 Simran Joshi
